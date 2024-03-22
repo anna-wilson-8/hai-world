@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hai-world/static/css/main.5f03a762.css",
+    "main.js": "/hai-world/static/js/main.7d76ac96.js",
+    "static/js/453.2a1dff56.chunk.js": "/hai-world/static/js/453.2a1dff56.chunk.js",
+    "index.html": "/hai-world/index.html",
+    "main.5f03a762.css.map": "/hai-world/static/css/main.5f03a762.css.map",
+    "main.7d76ac96.js.map": "/hai-world/static/js/main.7d76ac96.js.map",
+    "453.2a1dff56.chunk.js.map": "/hai-world/static/js/453.2a1dff56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f03a762.css",
+    "static/js/main.7d76ac96.js"
+  ]
+}
